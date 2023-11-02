@@ -36,4 +36,4 @@ No tests
 
 Take a look at my other projects: [GitHub Profile](https://github.com/JavierBurgara)
 
-You can reach me via email at: [matthkang@gmail.com](mailto:javierburgara150@yahoo.com)
+You can reach me via email at: [javierburgara150@yahoo.com](mailto:javierburgara150@yahoo.com)
